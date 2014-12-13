@@ -1,12 +1,5 @@
 /*
  * mm.c
- * hbovik - Harry Bovik
- *
- * Student Name: Tianqi Wen
- * Andrew ID: tianqiw
- *
- * NOTE TO STUDENTS: Replace this header comment with your own header
- * comment that gives a full description of your solution.
  */
 
 #include <assert.h>
